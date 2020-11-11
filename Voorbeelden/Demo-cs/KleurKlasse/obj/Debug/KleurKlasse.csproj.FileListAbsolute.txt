@@ -1,0 +1,8 @@
+C:\Users\Jeroen\Documents\Mop\MopApps\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Jeroen\Documents\Mop\MopApps\ConsoleApplication1\bin\Debug\KleurKlasse.exe.config
+C:\Users\Jeroen\Documents\Mop\MopApps\KleurKlasse\bin\Debug\KleurKlasse.exe.config
+C:\Users\Jeroen\Documents\Mop\MopApps\KleurKlasse\bin\Debug\KleurKlasse.exe
+C:\Users\Jeroen\Documents\Mop\MopApps\KleurKlasse\bin\Debug\KleurKlasse.pdb
+C:\Users\Jeroen\Documents\Mop\MopApps\KleurKlasse\obj\Debug\KleurKlasse.csprojResolveAssemblyReference.cache
+C:\Users\Jeroen\Documents\Mop\MopApps\KleurKlasse\obj\Debug\KleurKlasse.exe
+C:\Users\Jeroen\Documents\Mop\MopApps\KleurKlasse\obj\Debug\KleurKlasse.pdb

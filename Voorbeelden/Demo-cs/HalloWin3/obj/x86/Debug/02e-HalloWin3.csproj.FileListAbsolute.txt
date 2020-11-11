@@ -1,0 +1,5 @@
+C:\Users\Nemo\Desktop\MEP2\Voorbeelden\Demo-cs\HalloWin3\bin\Debug\HalloWin3.exe
+C:\Users\Nemo\Desktop\MEP2\Voorbeelden\Demo-cs\HalloWin3\bin\Debug\HalloWin3.pdb
+C:\Users\Nemo\Desktop\MEP2\Voorbeelden\Demo-cs\HalloWin3\obj\x86\Debug\02e-HalloWin3.csproj.CoreCompileInputs.cache
+C:\Users\Nemo\Desktop\MEP2\Voorbeelden\Demo-cs\HalloWin3\obj\x86\Debug\HalloWin3.exe
+C:\Users\Nemo\Desktop\MEP2\Voorbeelden\Demo-cs\HalloWin3\obj\x86\Debug\HalloWin3.pdb

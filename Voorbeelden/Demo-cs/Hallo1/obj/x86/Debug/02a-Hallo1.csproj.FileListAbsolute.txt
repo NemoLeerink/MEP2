@@ -1,0 +1,6 @@
+C:\Users\Nemo\Desktop\MEP2\Voorbeelden\Demo-cs\Hallo1\bin\Debug\02a-Hallo1.exe
+C:\Users\Nemo\Desktop\MEP2\Voorbeelden\Demo-cs\Hallo1\bin\Debug\02a-Hallo1.pdb
+C:\Users\Nemo\Desktop\MEP2\Voorbeelden\Demo-cs\Hallo1\obj\x86\Debug\02a-Hallo1.csprojAssemblyReference.cache
+C:\Users\Nemo\Desktop\MEP2\Voorbeelden\Demo-cs\Hallo1\obj\x86\Debug\02a-Hallo1.csproj.CoreCompileInputs.cache
+C:\Users\Nemo\Desktop\MEP2\Voorbeelden\Demo-cs\Hallo1\obj\x86\Debug\02a-Hallo1.exe
+C:\Users\Nemo\Desktop\MEP2\Voorbeelden\Demo-cs\Hallo1\obj\x86\Debug\02a-Hallo1.pdb
