@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nemo\\Desktop\\MEP2\\MEP\\MEP\\MEP.csproj",
-      "projectName": "MEP",
-      "projectPath": "C:\\Users\\Nemo\\Desktop\\MEP2\\MEP\\MEP\\MEP.csproj",
+      "projectUniqueName": "C:\\Users\\Nemo\\Desktop\\MEP2\\MEP\\MEP\\HelloWorldConsole.csproj",
+      "projectName": "HelloWorldConsole",
+      "projectPath": "C:\\Users\\Nemo\\Desktop\\MEP2\\MEP\\MEP\\HelloWorldConsole.csproj",
       "packagesPath": "C:\\Users\\Nemo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Nemo\\Desktop\\MEP2\\MEP\\MEP\\obj\\",
       "projectStyle": "PackageReference",

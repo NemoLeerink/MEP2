@@ -1,0 +1,13 @@
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\bin\Debug\netcoreapp3.1\HelloWorldConsole.exe
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\bin\Debug\netcoreapp3.1\HelloWorldConsole.deps.json
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\bin\Debug\netcoreapp3.1\HelloWorldConsole.runtimeconfig.json
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\bin\Debug\netcoreapp3.1\HelloWorldConsole.runtimeconfig.dev.json
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\bin\Debug\netcoreapp3.1\HelloWorldConsole.dll
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\bin\Debug\netcoreapp3.1\HelloWorldConsole.pdb
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\obj\Debug\netcoreapp3.1\HelloWorldConsole.csprojAssemblyReference.cache
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\obj\Debug\netcoreapp3.1\HelloWorldConsole.AssemblyInfoInputs.cache
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\obj\Debug\netcoreapp3.1\HelloWorldConsole.AssemblyInfo.cs
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\obj\Debug\netcoreapp3.1\HelloWorldConsole.csproj.CoreCompileInputs.cache
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\obj\Debug\netcoreapp3.1\HelloWorldConsole.dll
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\obj\Debug\netcoreapp3.1\HelloWorldConsole.pdb
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\obj\Debug\netcoreapp3.1\HelloWorldConsole.genruntimeconfig.cache

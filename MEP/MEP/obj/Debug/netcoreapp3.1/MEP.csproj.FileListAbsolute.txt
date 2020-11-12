@@ -1,0 +1,13 @@
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\bin\Debug\netcoreapp3.1\MEP.exe
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\bin\Debug\netcoreapp3.1\MEP.deps.json
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\bin\Debug\netcoreapp3.1\MEP.runtimeconfig.json
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\bin\Debug\netcoreapp3.1\MEP.runtimeconfig.dev.json
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\bin\Debug\netcoreapp3.1\MEP.dll
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\bin\Debug\netcoreapp3.1\MEP.pdb
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\obj\Debug\netcoreapp3.1\MEP.csprojAssemblyReference.cache
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\obj\Debug\netcoreapp3.1\MEP.AssemblyInfoInputs.cache
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\obj\Debug\netcoreapp3.1\MEP.AssemblyInfo.cs
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\obj\Debug\netcoreapp3.1\MEP.csproj.CoreCompileInputs.cache
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\obj\Debug\netcoreapp3.1\MEP.dll
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\obj\Debug\netcoreapp3.1\MEP.pdb
+C:\Users\Nemo\Desktop\MEP2\MEP\MEP\obj\Debug\netcoreapp3.1\MEP.genruntimeconfig.cache
