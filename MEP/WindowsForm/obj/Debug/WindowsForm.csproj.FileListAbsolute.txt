@@ -8,3 +8,13 @@ C:\Users\Nemo\Desktop\MEP2\MEP\WindowsForm\obj\Debug\WindowsForm.csproj.Generate
 C:\Users\Nemo\Desktop\MEP2\MEP\WindowsForm\obj\Debug\WindowsForm.csproj.CoreCompileInputs.cache
 C:\Users\Nemo\Desktop\MEP2\MEP\WindowsForm\obj\Debug\WindowsForm.exe
 C:\Users\Nemo\Desktop\MEP2\MEP\WindowsForm\obj\Debug\WindowsForm.pdb
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\WindowsForm\obj\Debug\WindowsForm.csprojAssemblyReference.cache
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\WindowsForm\obj\Debug\WindowsForm.Form1.resources
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.cache
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\WindowsForm\obj\Debug\WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\WindowsForm\obj\Debug\WindowsForm.pdb

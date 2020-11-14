@@ -1,0 +1,7 @@
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\VerKdagdag\bin\Debug\VerKdagdag.exe.config
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\VerKdagdag\bin\Debug\VerKdagdag.exe
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\VerKdagdag\bin\Debug\VerKdagdag.pdb
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\VerKdagdag\obj\Debug\VerKdagdag.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\VerKdagdag\obj\Debug\VerKdagdag.exe
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\VerKdagdag\obj\Debug\VerKdagdag.pdb
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\MEP\VerKdagdag\obj\Debug\VerKdagdag.csprojAssemblyReference.cache
