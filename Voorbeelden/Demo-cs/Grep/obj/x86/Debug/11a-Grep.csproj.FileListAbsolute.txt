@@ -1,0 +1,5 @@
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\Voorbeelden\Demo-cs\Grep\bin\Debug\Grep.exe
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\Voorbeelden\Demo-cs\Grep\bin\Debug\Grep.pdb
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\Voorbeelden\Demo-cs\Grep\obj\x86\Debug\11a-Grep.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\Voorbeelden\Demo-cs\Grep\obj\x86\Debug\Grep.exe
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\Voorbeelden\Demo-cs\Grep\obj\x86\Debug\Grep.pdb

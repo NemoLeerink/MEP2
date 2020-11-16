@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smiley", "WindowsForm\Smile
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerKdagdag", "VerKdagdag\VerKdagdag.csproj", "{6B390B70-AC67-4281-90C5-019ACD26F112}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mandelbrot", "Mandelbrot\Mandelbrot.csproj", "{043DC507-B309-4E44-B506-E106694B18B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6B390B70-AC67-4281-90C5-019ACD26F112}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B390B70-AC67-4281-90C5-019ACD26F112}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B390B70-AC67-4281-90C5-019ACD26F112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043DC507-B309-4E44-B506-E106694B18B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043DC507-B309-4E44-B506-E106694B18B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043DC507-B309-4E44-B506-E106694B18B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043DC507-B309-4E44-B506-E106694B18B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

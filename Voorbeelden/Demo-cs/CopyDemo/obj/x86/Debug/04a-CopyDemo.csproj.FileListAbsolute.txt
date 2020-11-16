@@ -1,0 +1,6 @@
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\Voorbeelden\Demo-cs\CopyDemo\bin\Debug\CopyDemo.exe
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\Voorbeelden\Demo-cs\CopyDemo\bin\Debug\CopyDemo.pdb
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\Voorbeelden\Demo-cs\CopyDemo\obj\x86\Debug\04a-CopyDemo.csprojAssemblyReference.cache
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\Voorbeelden\Demo-cs\CopyDemo\obj\x86\Debug\04a-CopyDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\Voorbeelden\Demo-cs\CopyDemo\obj\x86\Debug\CopyDemo.exe
+C:\Users\Lenovo Thinkpad\Desktop\MEP2\Voorbeelden\Demo-cs\CopyDemo\obj\x86\Debug\CopyDemo.pdb
