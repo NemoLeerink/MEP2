@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo Thinkpad\\.nuget\\packages\\": {}
+    "C:\\Users\\Nemo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo Thinkpad\\Desktop\\MEP2\\MEP\\MEP\\HelloWorldConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Nemo\\Desktop\\MEP2\\MEP\\MEP\\HelloWorldConsole.csproj",
       "projectName": "HelloWorldConsole",
-      "projectPath": "C:\\Users\\Lenovo Thinkpad\\Desktop\\MEP2\\MEP\\MEP\\HelloWorldConsole.csproj",
-      "packagesPath": "C:\\Users\\Lenovo Thinkpad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo Thinkpad\\Desktop\\MEP2\\MEP\\MEP\\obj\\",
+      "projectPath": "C:\\Users\\Nemo\\Desktop\\MEP2\\MEP\\MEP\\HelloWorldConsole.csproj",
+      "packagesPath": "C:\\Users\\Nemo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nemo\\Desktop\\MEP2\\MEP\\MEP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lenovo Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nemo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

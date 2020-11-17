@@ -1,4 +1,9 @@
-﻿using System;
+﻿/**
+ * @author Nemo Leerink.
+ * Het doel van het programma is om de leeftijd, eerst volgende verKdagdag en de eerst volgende kroon-verKdagdag te berekenen.
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,9 +23,8 @@ namespace VerKdagdag
 
             DateTime currentDate = DateTime.Now;
             int age = currentDate.Year - birthDate.Year;
-
+            // past de leeftijd aan als de gebruiker nog niet jarig is geweest dit jaar
             if (birthDate.Date > currentDate.AddYears(-age)) age--;
-
 
             TimeSpan ts = currentDate.Date.Subtract(birthDate);
 
@@ -28,8 +32,8 @@ namespace VerKdagdag
             int nextVerKdagdag = 1024 - (ts.Days % 1024);
             int nextKroonVerKdagdag = 8192 - (ts.Days % 8192);
 
+            // een leuke tekstuele verandering als je eerstvolgende verKdagdag ook je kroon-verKdagdag is
             string ook = "";
-
             if (nextKroonVerKdagdag == nextVerKdagdag) ook = "ook ";
 
             Console.WriteLine("Je leeftijd in jaren is {0}.\nJe leeftijd in dagen is {1}.", age, ts.Days);
