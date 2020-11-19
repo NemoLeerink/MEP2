@@ -1,0 +1,10 @@
+C:\Users\Nemo\Desktop\MEP2\MEP\Eyes\obj\Debug\Eyes.Form1.resources
+C:\Users\Nemo\Desktop\MEP2\MEP\Eyes\obj\Debug\Eyes.Properties.Resources.resources
+C:\Users\Nemo\Desktop\MEP2\MEP\Eyes\obj\Debug\Eyes.csproj.GenerateResource.cache
+C:\Users\Nemo\Desktop\MEP2\MEP\Eyes\obj\Debug\Eyes.csproj.CoreCompileInputs.cache
+C:\Users\Nemo\Desktop\MEP2\MEP\Eyes\bin\Debug\Eyes.exe.config
+C:\Users\Nemo\Desktop\MEP2\MEP\Eyes\bin\Debug\Eyes.exe
+C:\Users\Nemo\Desktop\MEP2\MEP\Eyes\bin\Debug\Eyes.pdb
+C:\Users\Nemo\Desktop\MEP2\MEP\Eyes\obj\Debug\Eyes.exe
+C:\Users\Nemo\Desktop\MEP2\MEP\Eyes\obj\Debug\Eyes.pdb
+C:\Users\Nemo\Desktop\MEP2\MEP\Eyes\obj\Debug\Eyes.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Nemo\Desktop\MEP2\MEP\Muisvolgen\bin\Debug\Muisvolgen.exe.config
+C:\Users\Nemo\Desktop\MEP2\MEP\Muisvolgen\bin\Debug\Muisvolgen.exe
+C:\Users\Nemo\Desktop\MEP2\MEP\Muisvolgen\bin\Debug\Muisvolgen.pdb
+C:\Users\Nemo\Desktop\MEP2\MEP\Muisvolgen\obj\Debug\Muisvolgen.csprojAssemblyReference.cache
+C:\Users\Nemo\Desktop\MEP2\MEP\Muisvolgen\obj\Debug\Muisvolgen.Form1.resources
+C:\Users\Nemo\Desktop\MEP2\MEP\Muisvolgen\obj\Debug\Muisvolgen.Properties.Resources.resources
+C:\Users\Nemo\Desktop\MEP2\MEP\Muisvolgen\obj\Debug\Muisvolgen.csproj.GenerateResource.cache
+C:\Users\Nemo\Desktop\MEP2\MEP\Muisvolgen\obj\Debug\Muisvolgen.csproj.CoreCompileInputs.cache
+C:\Users\Nemo\Desktop\MEP2\MEP\Muisvolgen\obj\Debug\Muisvolgen.exe
+C:\Users\Nemo\Desktop\MEP2\MEP\Muisvolgen\obj\Debug\Muisvolgen.pdb
